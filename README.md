@@ -1,4 +1,12 @@
-# Pong_pygame
+# Pong-pygame
 
-#Score is incresead when it touches the right or left egde respectively
-#first player to 11 wins
+Standard Ping-Pong game made in pygame
+
+***Goal***  
+
+Make Pygame module  
+
+***Language Used***  
+
+Python3
+
