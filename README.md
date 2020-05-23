@@ -1,4 +1,4 @@
-# Pong-pygame
+# Ping-Pong-pygame
 
 Standard Ping-Pong game made in pygame
 
